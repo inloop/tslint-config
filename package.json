@@ -1,11 +1,11 @@
 {
-  "name": "@inloopx/tslint-config-inloopx",
-  "version": "1.0.0",
+  "name": "@inloopx/tslint-config",
+  "version": "1.0.2",
   "description": "Tslint sharable config - inLoopX",
   "main": "tslint-config.json",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/inloop/tslint-config-inloopx.git"
+    "url": "git+https://github.com/inloop/tslint-config.git"
   },
   "keywords": [
     "tslint"
@@ -13,12 +13,12 @@
   "author": "Jan Omacka",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/inloop/tslint-config-inloopx/issues"
+    "url": "https://github.com/inloop/tslint-config/issues"
   },
   "dependencies": {
     "tslint-config-airbnb": "^5.9.2",
     "tslint-config-prettier": "^1.13.0",
     "tslint-react": "^3.6.0"
   },
-  "homepage": "https://github.com/inloop/tslint-config-inloopx#readme"
+  "homepage": "https://github.com/inloop/tslint-config#readme"
 }
