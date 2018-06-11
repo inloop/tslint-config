@@ -1,6 +1,6 @@
 {
   "name": "@inloopx/tslint-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Tslint sharable config - inLoopX",
   "main": "tslint-config.json",
   "repository": {
